@@ -1,0 +1,20 @@
+{
+  "name": "input_copy",
+  "authors": [
+    "kruczjak <kruczjak@gmail.com>"
+  ],
+  "description": "Simple copy from input using builtin 'copy' command",
+  "main": [
+    "./src/js/input_copy.js"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
